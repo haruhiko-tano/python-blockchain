@@ -1,0 +1,2 @@
+# python-blockchain
+ブロックチェーンの仕組みをPythonで理解するためのサンプル
